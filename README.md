@@ -2,3 +2,7 @@
 demo git tutorial  
 I made some changes to my readme explain  
 Nick Made this edit
+
+## Contributors
+- Monika
+- Nick
